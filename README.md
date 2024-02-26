@@ -138,7 +138,7 @@ After processing the results of our survey, we can illustrate potential users of
 ## User Flowchart
 ![flowchart drawio](https://github.com/thaneekan/soen-357-mini-project/assets/101996937/21d88c2f-c436-47f0-87ee-d336a3da42c1)
 
-![Sign up page](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/26e8a972-6f63-43f2-a509-54ce9fbe9643)
+<img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/26e8a972-6f63-43f2-a509-54ce9fbe9643" width="100" height="100">
 
 ![check-up](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/fee02409-655f-448a-863a-f8103c82295d)
 
