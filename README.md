@@ -118,5 +118,6 @@ After processing the results of our survey, we can illustrate potential users of
 
 ## User Journey
  
+<img width="452" alt="journey" src="https://github.com/thaneekan/soen-357-mini-project/assets/101996937/7ec61925-6e38-411e-b7fa-53a3fd59421c">
 
 
