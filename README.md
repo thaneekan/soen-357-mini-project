@@ -107,6 +107,10 @@ After processing the results of our survey, we can illustrate potential users of
 
 
 
+<img width="452" alt="persona2" src="https://github.com/thaneekan/soen-357-mini-project/assets/101996937/9b6ffc6c-3f3e-4c7a-a39e-1095b2f2dc61">
+
+<img width="452" alt="persona3" src="https://github.com/thaneekan/soen-357-mini-project/assets/101996937/9be50c34-43ee-4eec-8e34-36a2f2525853">
+
 
 
 
