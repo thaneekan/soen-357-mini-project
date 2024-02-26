@@ -134,3 +134,6 @@ After processing the results of our survey, we can illustrate potential users of
 
 ![Add the customer journey phase here](https://github.com/thaneekan/soen-357-mini-project/assets/101996937/35c3c86d-5e4a-4e31-844a-0cfe8ad34917)
 
+## User Flowchart
+![flowchart drawio](https://github.com/thaneekan/soen-357-mini-project/assets/101996937/21d88c2f-c436-47f0-87ee-d336a3da42c1)
+
