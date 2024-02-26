@@ -1,5 +1,6 @@
-# BetterMind
 
+# BetterMind
+<link rel="stylesheet" href="/assets/css/styles.scss">
 ## Understanding the problem
 
 In today's rapidly aging society, mental health challenges among the elderly have emerged as a silent epidemic that often goes unnoticed and untreated. As we strive to enhance the quality of life for our aging population, it becomes imperative to address the unique psychological needs and barriers they face. Isolation, loss of independence, and the transition into retirement or care facilities can lead to feelings of loneliness, anxiety, and depression, significantly impacting their overall well-being. Recognizing these issues is the first step in developing targeted interventions. Several technological strides have been made in the mental health industry, but none have been catered towards the elderly and their potential issues. 
