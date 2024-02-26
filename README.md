@@ -63,3 +63,56 @@ The gamified approach to mental wellness might not resonate with everyone, as so
 ## Survey
 To get a better understand of what features this app should have, we conducted a survey on our target demographic. Here are the questions and their results:
 
+ 
+ 
+We started off with basic questions to get a more accurate understanding of our demographic.
+ 
+Living situation plays a major role in how mentally stable a person can be. Unfortunately, a lot of elderly people do not live with their significant others or their families. This question, paired with the one below, helps us find a connection between their living situation and their mental state.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+What would you like to see from an application to make it accessible to your generation?
+
+We received several responses, however the most common demands we saw we’re related to voiceovers, big fonts and easy to use UI. Since older generations are less familiar with technology, they would like an easy app to use. Furthermore, some other responses include features such as cognitive games, fitness plans, and computer migration.
+ 
+ 
+## Analysis
+After processing the results of our survey, we can illustrate potential users of our application, their lifestyles, situations, relationships, and motivations. 
+
+### User Personas
+ 
+
+
+
+ 
+ 
+<img width="452" alt="persona1" src="https://github.com/thaneekan/soen-357-mini-project/assets/101996937/1f6ce85b-a73f-403b-9c92-c17ad6635775">
+
+
+
+
+
+
+
+
+
+
+
+## User Journey
+ 
+
+
