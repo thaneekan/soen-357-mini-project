@@ -5,10 +5,11 @@
 In today's rapidly aging society, mental health challenges among the elderly have emerged as a silent epidemic that often goes unnoticed and untreated. As we strive to enhance the quality of life for our aging population, it becomes imperative to address the unique psychological needs and barriers they face. Isolation, loss of independence, and the transition into retirement or care facilities can lead to feelings of loneliness, anxiety, and depression, significantly impacting their overall well-being. Recognizing these issues is the first step in developing targeted interventions. Several technological strides have been made in the mental health industry, but none have been catered towards the elderly and their potential issues. 
 
 Our goal is to bridge this gap by creating a mental health and wellbeing application for the elderly. 
-Research
+
+##Research
 The idea of a mental health app isn't new; applications have been created without a specifically targeted audience. Here are some examples:
 
-Calm
+###Calm
 
 Description:
 
@@ -21,7 +22,7 @@ Full range of Calm's content is locked behind a subscription fee, which may be a
 
 
 
-BetterHelp
+###BetterHelp
 
 Description:
 
@@ -32,7 +33,7 @@ Drawbacks:
 One potential drawback is the cost, as BetterHelp operates on a subscription model that may be expensive for some users without insurance coverage. Additionally, the nature of online therapy may not suit everyone, especially those who prefer the nuances of face-to-face interaction or have more complex mental health needs.
 
 
-Headspace
+H###Headspace
 
 Description:
 
@@ -48,7 +49,7 @@ Most of its features require a subscription, which might deter individuals looki
 
 
 
-Happify
+###Happify
 
 Description:
 
@@ -59,6 +60,6 @@ The gamified approach to mental wellness might not resonate with everyone, as so
 
 
 
-Survey
+##Survey
 To get a better understand of what features this app should have, we conducted a survey on our target demographic. Here are the questions and their results:
 
