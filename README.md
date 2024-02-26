@@ -138,22 +138,37 @@ After processing the results of our survey, we can illustrate potential users of
 ## User Flowchart
 ![flowchart drawio](https://github.com/thaneekan/soen-357-mini-project/assets/101996937/21d88c2f-c436-47f0-87ee-d336a3da42c1)
 
-![Sign up page](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/9b646bac-8af2-4e4c-98e6-5b413a62d3d7)
+![Sign up page](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/26e8a972-6f63-43f2-a509-54ce9fbe9643)
+
+![check-up](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/fee02409-655f-448a-863a-f8103c82295d)
+
+![main page](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/e4d13c41-90e9-4c8e-a30a-b9de28212307)
+
+![Dashboard - notification tab](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/cf3ddc95-648b-4bd5-9f15-a3f063d4f052)
+
+![calendar page](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/50653bf3-4ee0-4a36-8551-9d55604efd56)
+
+![calendar day](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/b609c853-4f05-41e0-826a-8dd63d80f9e1)
+
+![chat with therapist](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/80f67ea6-603b-42a6-9dea-ae0d513c030c)
+
+![user profile](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/def98407-0d03-455a-8837-c7e8faae09ca)
+
+![music selection](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/767cd21b-97ba-4a43-b271-340a2a38a836)
 
 
-![check-up](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/3ed622ab-3202-4154-96cd-16ae50fdd8ff)
 
-![main page](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/a95bfbe9-cb81-496a-add9-615bd17ef219)
 
-![Dashboard - notification tab](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/7f044243-8d60-4432-86b4-c826ae08c8ee)
 
-![calendar page](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/fa096a00-f03f-4335-9ebb-a79559e6ba37)
 
-![calendar day](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/f9449eae-ebfe-421e-a326-2105b7a60979)
 
-![chat with therapist](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/eb19c26e-7425-482f-bfd9-06e87464480f)
 
-![user profile](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/f26af9e4-ed74-4cfe-8044-d52d63a82cd1)
 
-![music selection](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/7b66df97-5c8a-4f8d-a1f7-b7c25c0d946a)
+
+
+
+
+
+
+
 
