@@ -40,4 +40,4 @@ The gamified approach to mental wellness might not resonate with everyone, as so
 
 Survey
 To get a better understand of what features this app should have, we conducted a survey on our target demographic. Here are the questions and their results:
-![image](https://github.com/thaneekan/soen-357-mini-project/assets/101996937/a8547f5b-5acb-428d-a1a2-beca4425b21b)
+
