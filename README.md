@@ -131,29 +131,42 @@ User personas are potential users of our application. Through the survey results
 
 
 ## User Journey
- 
+
+After making our personas, we took one of the 3, Maria, and created her user journey. This graphic allows us to demonstrate the thought process of a user, and the journey they partake on our application.
 
 ![Add the customer journey phase here](https://github.com/thaneekan/soen-357-mini-project/assets/101996937/35c3c86d-5e4a-4e31-844a-0cfe8ad34917)
 
 ## User Flowchart
+The following flowchart demonstrates all of the options a user has on our application.
 ![flowchart drawio](https://github.com/thaneekan/soen-357-mini-project/assets/101996937/21d88c2f-c436-47f0-87ee-d336a3da42c1)
 
+## Design
+
+### Welcome Page
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/26e8a972-6f63-43f2-a509-54ce9fbe9643" width="150" height="300">
 
+### Mood logging
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/fee02409-655f-448a-863a-f8103c82295d" width="150" height="300">
 
+### Home Page
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/e4d13c41-90e9-4c8e-a30a-b9de28212307" width="150" height="300">
 
+### Notifications Tab
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/cf3ddc95-648b-4bd5-9f15-a3f063d4f052" width="150" height="300">
 
+### Calendar
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/50653bf3-4ee0-4a36-8551-9d55604efd56" width="150" height="300">
 
+### Individual Day Snapshot
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/b609c853-4f05-41e0-826a-8dd63d80f9e1" width="150" height="300">
 
+### Messaging Page
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/80f67ea6-603b-42a6-9dea-ae0d513c030c" width="150" height="300">
 
+### Profile Page
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/def98407-0d03-455a-8837-c7e8faae09ca" width="150" height="300">
 
+### Music Page
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/767cd21b-97ba-4a43-b271-340a2a38a836" width="150" height="300">
 
 
