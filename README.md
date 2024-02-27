@@ -96,7 +96,7 @@ Living situation plays a major role in how mentally stable a person can be. Unfo
 ![q19](https://github.com/thaneekan/soen-357-mini-project/assets/101996937/e85b4650-1320-4732-a45a-bcb7f1f4bab4)
  ![q20](https://github.com/thaneekan/soen-357-mini-project/assets/101996937/c480d75d-2f5f-488b-a243-22ec87eebef9)
 
-What would you like to see from an application to make it accessible to your generation?
+**What would you like to see from an application to make it accessible to your generation?**
 
 We received several responses, however the most common demands we saw we’re related to voiceovers, big fonts and easy to use UI. Since older generations are less familiar with technology, they would like an easy app to use. Furthermore, some other responses include features such as cognitive games, fitness plans, and computer migration.
  ![q21](https://github.com/thaneekan/soen-357-mini-project/assets/101996937/54881c26-0f7c-4109-8814-dbfa22382763)
