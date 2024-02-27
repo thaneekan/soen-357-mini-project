@@ -140,21 +140,21 @@ After processing the results of our survey, we can illustrate potential users of
 
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/26e8a972-6f63-43f2-a509-54ce9fbe9643" width="150" height="300">
 
-![check-up](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/fee02409-655f-448a-863a-f8103c82295d)
+<img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/fee02409-655f-448a-863a-f8103c82295d" width="150" height="300">
 
-![main page](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/e4d13c41-90e9-4c8e-a30a-b9de28212307)
+<img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/e4d13c41-90e9-4c8e-a30a-b9de28212307" width="150" height="300">
 
-![Dashboard - notification tab](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/cf3ddc95-648b-4bd5-9f15-a3f063d4f052)
+<img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/cf3ddc95-648b-4bd5-9f15-a3f063d4f052" width="150" height="300">
 
-![calendar page](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/50653bf3-4ee0-4a36-8551-9d55604efd56)
+<img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/50653bf3-4ee0-4a36-8551-9d55604efd56" width="150" height="300">
 
-![calendar day](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/b609c853-4f05-41e0-826a-8dd63d80f9e1)
+<img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/b609c853-4f05-41e0-826a-8dd63d80f9e1" width="150" height="300">
 
-![chat with therapist](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/80f67ea6-603b-42a6-9dea-ae0d513c030c)
+<img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/80f67ea6-603b-42a6-9dea-ae0d513c030c" width="150" height="300">
 
-![user profile](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/def98407-0d03-455a-8837-c7e8faae09ca)
+<img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/def98407-0d03-455a-8837-c7e8faae09ca" width="150" height="300">
 
-![music selection](https://github.com/thaneekan/soen-357-mini-project/assets/92413776/767cd21b-97ba-4a43-b271-340a2a38a836)
+<img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/767cd21b-97ba-4a43-b271-340a2a38a836" width="150" height="300">
 
 
 
