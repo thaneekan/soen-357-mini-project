@@ -192,9 +192,8 @@ Lastly, users have access to a music page, where they can listen to suggested so
 
 
 
-
-
-
+## Conclusion
+Though the project was incredibly entertaining to embark on, it did come with its fair share of challenges. Coming up with the design was especially hard, considering how meticulous we had to be. When dealing with a mental health app, all aspects of the design must embrace positivity and make the users feel uplifted when using the application. Taking this into consideration, we decided to use a light purple as the main color. Furthermore, we used a simple design, as to not overstimulate the mind of the users. This helps increase mind clarity within the user, and considering the age of our target audience, allows for them to better see the screen. The fonts were big and bold, so that the elders would not have trouble reading the letters on the screen. **All of these challenges allowed us to focus thoroughly, and deliver a product we believe will truly help the older generation with any mental health issues they might face.**
 
 
 
