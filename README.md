@@ -142,31 +142,42 @@ The following flowchart demonstrates all of the options a user has on our applic
 
 ## Design
 
+Now that everything has been considered, we were able to create real designs of our product.
+
 ### Welcome Page
+This page shows what the user will see when first opening the application, assuming they have never logged in before, or they have not saved their information.
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/26e8a972-6f63-43f2-a509-54ce9fbe9643" width="150" height="300">
 
 ### Mood logging
+The following page allows the user to input their mood on a scale of 4 from least happy to most happy.
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/fee02409-655f-448a-863a-f8103c82295d" width="150" height="300">
 
 ### Home Page
+Then, the user arrives at the home page. This displays the dashboard at the bottom which can take them to the other pages. Furthermore, it displays the users upcoming appointments with a therapist, and allows them to write about their day.
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/e4d13c41-90e9-4c8e-a30a-b9de28212307" width="150" height="300">
 
 ### Notifications Tab
+On the top right of the home page, there is a button that, when clicked, pops out a tab showing the users' notifications. This can show anything from upcoming appointments to unread messages.
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/cf3ddc95-648b-4bd5-9f15-a3f063d4f052" width="150" height="300">
 
 ### Calendar
+The calendar section, which is accessed from the bottom dashboard, allows the user to see everything that is upcoming on specific dates.
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/50653bf3-4ee0-4a36-8551-9d55604efd56" width="150" height="300">
 
 ### Individual Day Snapshot
+A user can click on a specific day and see exactly what is happening that day.
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/b609c853-4f05-41e0-826a-8dd63d80f9e1" width="150" height="300">
 
 ### Messaging Page
+Users can see their recent messages, and click on them to enter the conversation with that person.
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/80f67ea6-603b-42a6-9dea-ae0d513c030c" width="150" height="300">
 
 ### Profile Page
+Users can access their profile page, which can allow them to change personal information.
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/def98407-0d03-455a-8837-c7e8faae09ca" width="150" height="300">
 
 ### Music Page
+Lastly, users have access to a music page, where they can listen to suggested songs by their therapists, or listen to calming music suggest by the application itself. 
 <img src="https://github.com/thaneekan/soen-357-mini-project/assets/92413776/767cd21b-97ba-4a43-b271-340a2a38a836" width="150" height="300">
 
 
