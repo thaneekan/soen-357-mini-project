@@ -105,12 +105,12 @@ We received several responses, however the most common demands we saw we’re re
 
  
 ## Analysis
-After processing the results of our survey, we can illustrate potential users of our application, their lifestyles, situations, relationships, and motivations. 
+After processing the results of our survey, we were able to make several informative graphics to further understand how we wanted to design the application.
 
 ### User Personas
  
 
-
+User personas are potential users of our application. Through the survey results, we were able to grasp an idea of our demographic and we combined those characteristics into the 3 following people:
 
  
  
